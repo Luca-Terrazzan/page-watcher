@@ -1,3 +1,10 @@
+# Cached page query results
+cache/*
+!cache/.gitkeep
+
+# User configurations
+config.js
+
 # Logs
 logs
 *.log
